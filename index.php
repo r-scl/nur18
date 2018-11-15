@@ -32,6 +32,7 @@
 <meta name="twitter:description" content="Es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!">
 <meta name="twitter:image" content="https://s3.amazonaws.com/necesitamosunrespiro/images/open-graph-share.jpg">
         
+<meta property="fb:app_id" content="1960264467396827" /> 
 <meta property="og:title" content="#NecesitamosUnRespiro" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.necesitamosunrespiro.cl/" />
@@ -68,7 +69,7 @@
             <div class="col col-md text-right">
                 <div id="header-icons" class="social-icons">
                     <a href="https://twitter.com/MasRespiro" target="_blank"><i class="fab fa-twitter"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UCqbiYMNAGuGZ2bdUixOthaA" target="_blank"><i class="fab fa-youtube"></i></a>
                     <a href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                     <a href="https://www.instagram.com/necesitamosunrespiro/" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -258,7 +259,7 @@
             <div class="col col-md text-right">
                 <div id="footer-icons" class="social-icons">
                     <a href="https://twitter.com/MasRespiro" target="_blank"><i class="fab fa-twitter"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.youtube.com/channel/UCqbiYMNAGuGZ2bdUixOthaA" target="_blank"><i class="fab fa-youtube"></i></a>
                     <a href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                     <a href="https://www.instagram.com/necesitamosunrespiro/" target="_blank"><i class="fab fa-instagram"></i></a>

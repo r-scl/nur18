@@ -1,0 +1,180 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: #3b4759;
+    font-weight: 300;
+}
+a{
+    color: #3b4759;
+}
+/*****************************************************************
+HEADER
+*****************************************************************/
+header{
+}
+
+#header-bg{
+    background: url(images/sec1-bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    transition: 0.3s ease all;
+}
+
+#logo{
+    margin: 30px 0;
+}
+
+#sec1-txt{
+    margin: 40px 0;
+}
+#sec1-txt p{
+    font-size: 21px;
+}
+
+.social-icons i{
+    font: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.social-icons i:hover{
+    color: #1c5eff;
+}
+
+/*****************************************************************
+Sección Posters
+*****************************************************************/
+#sec-posters{
+    background-color: #1c5eff;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+#sec-posters h2{
+    color: #ffffff;
+    text-align: center;
+    font-weight: 600;
+}
+
+#infos-row{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.info-s img{
+    -webkit-box-shadow: 20px 20px 0px 0px rgba(23,74,204,1);
+    -moz-box-shadow: 20px 20px 0px 0px rgba(23,74,204,1);
+    box-shadow: 20px 20px 0px 0px rgba(23,74,204,1);
+}
+
+.info-sharer{
+    color: #ffffff;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+.share-ico{
+    display: inline-block;
+    margin-right: 5px;
+    transition: 0.2 ease all;
+    border: 2px solid white;
+    border-radius: 25px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 21px;
+    margin-top: -9px;
+    line-height: 1.7;
+}
+.share-ico:hover{
+    color: #000000;
+}
+
+/*****************************************************************
+Testimonios
+*****************************************************************/
+#sec-testimonios{
+    background-color: #ebebeb;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#sec-testimonios{
+    color: #394656;
+}
+#testimonios{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.doc-block p{
+    margin-top: 20px;
+    font: 14px;
+}
+
+#downloads{
+    margin-top: 80px;
+}
+#bot-report{
+    transition: 0.3s ease all;
+}
+#bot-report:hover{
+    background-color: #ffffff;
+}
+/*****************************************************************
+Footer
+*****************************************************************/
+footer{
+    background-color: #ffffff;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#footer-icons{
+    margin-top: 20px;
+}
+
+/*****************************************************************
+MEDIA QUERIES
+*****************************************************************/
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+    #logo{
+        margin: 0;
+    }
+    #header-icons{
+        margin: 15px 0;
+        text-align: center;
+    }
+    #sec1-txt p{
+        font-size: 16px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    .info-sharer .col-md-6 {
+    text-align: center !important;
+        margin-bottom: 20px;
+    }
+    #sec-posters{
+        padding-bottom: 10px;
+    }
+    footer{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    footer .col{
+        text-align: center !important;
+    }
+}
+
+
+
+
+
+

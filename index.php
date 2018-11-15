@@ -6,6 +6,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="https://s3.amazonaws.com/necesitamosunrespiro/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://s3.amazonaws.com/necesitamosunrespiro/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://s3.amazonaws.com/necesitamosunrespiro/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://s3.amazonaws.com/necesitamosunrespiro/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://s3.amazonaws.com/necesitamosunrespiro/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#ffffff">
+    
     <title>#NecesitamosUnRespiro</title>
 
     <meta name="description" content="#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!">

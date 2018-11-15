@@ -55,7 +55,7 @@
         </div>
     </div>
 </header>
-<main>      
+    
       <!-- ****************************************************************************-->
 
       
@@ -198,7 +198,7 @@
         <div class="row">
             
             <div class="col-md-6">
-                AQUI BOTON INFOGRAFIA
+                BOTON INFOGRAFIA
             </div>
             
             <div class="col-md-6">
@@ -211,7 +211,7 @@
     
 </section>      
 <!-- ****************************************************************************-->
-</main>
+
 <footer>
     
     <div class="container">   

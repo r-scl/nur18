@@ -84,6 +84,13 @@
             </div>
         </div>
         
+        <div id="comp-pulmones" class="row justify-content-center">
+            <div class="col-sm-12 col-md-6 text-center">
+                <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/comparacion-pulmones.png" class="img-fluid mx-auto d-block">
+                <p>El cáncer de pulmón es más letal que el cáncer de próstata,<br>colon y mama juntos.</p>
+            </div>
+        </div>
+        
     </div>
 </section>
 
@@ -103,19 +110,20 @@
             <div class="col-md-4">
                 
                 <div class="info-s">
-                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/sec2-img.jpg" class="img-fluid mx-auto d-block">
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/afiche3.png" class="img-fluid mx-auto d-block">
                 </div>
                 
                 <div class="row info-sharer">
                     <div class="col-md-6 text-right"><span>COMPARTE</span></div>
                     <div class="col-md-6 text-left">
-                    
+                     
+
                         <div class="sharer-list">
-                            <div class="share-ico" data-sharer="twitter" data-title="Checkout Sharer.js!" data-hashtags="awesome, sharer.js" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-twitter"></i></div>
+                            <div class="share-ico" data-sharer="twitter" data-title="3.000 personas mueren al año en Chile por cáncer de pulmón #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
                         
-                            <div class="share-ico" data-sharer="facebook" data-hashtag="hashtag" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-facebook"></i></div>
+                            <div class="share-ico" data-sharer="facebook" data-hashtag="hashtag" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
                         
-                            <div class="share-ico" data-sharer="linkedin" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-linkedin"></i></div> 
+                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
                         </div>
                     </div>  
                 </div>
@@ -125,19 +133,18 @@
             <div class="col-md-4">
                 
                 <div class="info-s">
-                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/sec2-img.jpg" class="img-fluid mx-auto d-block">
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/afiche2.png" class="img-fluid mx-auto d-block">
                 </div>
                 
                 <div class="row info-sharer">
                     <div class="col-md-6 text-right"><span>COMPARTE</span></div>
                     <div class="col-md-6 text-left">
-                    
                         <div class="sharer-list">
-                            <div class="share-ico" data-sharer="twitter" data-title="Checkout Sharer.js!" data-hashtags="awesome, sharer.js" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-twitter"></i></div>
+                            <div class="share-ico" data-sharer="twitter" data-title="En Chile, el 40% de las mujeres con cáncer de pulmón nunca han fumado #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
                         
-                            <div class="share-ico" data-sharer="facebook" data-hashtag="hashtag" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-facebook"></i></div>
+                            <div class="share-ico" data-sharer="facebook" data-hashtag="hashtag" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
                         
-                            <div class="share-ico" data-sharer="linkedin" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-linkedin"></i></div> 
+                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
                         </div>
                     </div>  
                 </div>
@@ -147,7 +154,7 @@
             <div class="col-md-4">
                 
                 <div class="info-s">
-                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/sec2-img.jpg" class="img-fluid mx-auto d-block">
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/afiche1.png" class="img-fluid mx-auto d-block">
                 </div>
                 
                 <div class="row info-sharer">
@@ -155,11 +162,11 @@
                     <div class="col-md-6 text-left">
                     
                         <div class="sharer-list">
-                            <div class="share-ico" data-sharer="twitter" data-title="Checkout Sharer.js!" data-hashtags="awesome, sharer.js" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-twitter"></i></div>
+                            <div class="share-ico" data-sharer="twitter" data-title="El 85% de los casos de cáncer de pulmón se diagnostican en estadio avanzado #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
                         
-                            <div class="share-ico" data-sharer="facebook" data-hashtag="hashtag" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-facebook"></i></div>
+                            <div class="share-ico" data-sharer="facebook" data-hashtag="hashtag" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
                         
-                            <div class="share-ico" data-sharer="linkedin" data-url="https://ellisonleao.github.io/sharer.js/"><i class="fab fa-linkedin"></i></div> 
+                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
                         </div>
                     </div>  
                 </div>

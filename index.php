@@ -38,7 +38,7 @@
             <div class="col col-md"></div>
                 
             <div class="col-md-auto">
-                <div id="logo"><img src="images/nur-logo.jpg" class="mx-auto d-block img-fluid" ></div>
+                <div id="logo"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/nur-logo.jpg" class="mx-auto d-block img-fluid" ></div>
             </div>
                 
             <div class="col col-md text-right">
@@ -64,7 +64,7 @@
         <div class="row">
             
             <div class="col-md-12">
-                <img src="images/vid.jpg" class="img-fluid mx-auto d-block">
+                <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/vid.jpg" class="img-fluid mx-auto d-block">
             </div>
             
         </div>
@@ -94,7 +94,7 @@
             <div class="col-md-4">
                 
                 <div class="info-s">
-                    <img src="images/sec2-img.jpg" class="img-fluid mx-auto d-block">
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/sec2-img.jpg" class="img-fluid mx-auto d-block">
                 </div>
                 
                 <div class="row info-sharer">
@@ -116,7 +116,7 @@
             <div class="col-md-4">
                 
                 <div class="info-s">
-                    <img src="images/sec2-img.jpg" class="img-fluid mx-auto d-block">
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/sec2-img.jpg" class="img-fluid mx-auto d-block">
                 </div>
                 
                 <div class="row info-sharer">
@@ -138,7 +138,7 @@
             <div class="col-md-4">
                 
                 <div class="info-s">
-                    <img src="images/sec2-img.jpg" class="img-fluid mx-auto d-block">
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/sec2-img.jpg" class="img-fluid mx-auto d-block">
                 </div>
                 
                 <div class="row info-sharer">
@@ -202,7 +202,7 @@
             </div>
             
             <div class="col-md-6">
-                <div id="bot-report"><img src="images/bot-report.png" class="img-fluid mx-auto d-block"></div>
+                <div id="bot-report"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/bot-report.png" class="img-fluid mx-auto d-block"></div>
             </div>
             
             
@@ -218,7 +218,7 @@
         <div class="row justify-content-md-center">
                 
             <div class="col col-md">
-                <img src="images/logo-roche.png" class="img-fluid">
+                <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/logo-roche.png" class="img-fluid">
             </div>
                 
             <div class="col-md-auto">

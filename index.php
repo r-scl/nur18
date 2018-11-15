@@ -175,18 +175,18 @@
         <div class="row">
             
             <div class="col-md-4 doc-block">
-                <img src="https://previews.123rf.com/images/ximagination/ximagination1503/ximagination150300483/37681251-retrato-de-la-persona-gorda-vistiendo-ropa-deportiva-y-sec%C3%A1ndose-el-sudor-con-una-toalla-aislado-en-bl.jpg" class="img-fluid mx-auto d-block">
+                <img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block">
                 <p>Dr Mauricio Burotto, Oncólogo Médico del Instituto Bradford habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista en el siguiente link.</p>
             </div>
             
             <div class="col-md-4 doc-block">
-                <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://previews.123rf.com/images/ximagination/ximagination1503/ximagination150300483/37681251-retrato-de-la-persona-gorda-vistiendo-ropa-deportiva-y-sec%C3%A1ndose-el-sudor-con-una-toalla-aislado-en-bl.jpg" class="img-fluid mx-auto d-block"></a>
+                <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block"></a>
                 <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><p>“Estoy muy feliz de ser un defensor en estos días porque muchas cosas buenas han comenzado a suceder en los últimos tres, cuatro, cinco años. El número de sobrevivientes está aumentando todo el tiempo, y es muy bueno poder decir eso”.</p></a>
                 <p><strong>Tommy Björk, miembro de la junta, Cáncer de Pulmón Europa</strong></p>
             </div>
             
             <div class="col-md-4 doc-block">
-                <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://previews.123rf.com/images/ximagination/ximagination1503/ximagination150300483/37681251-retrato-de-la-persona-gorda-vistiendo-ropa-deportiva-y-sec%C3%A1ndose-el-sudor-con-una-toalla-aislado-en-bl.jpg" class="img-fluid mx-auto d-block"></a>
+                <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block"></a>
                 <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><p>“Reconocemos que el viaje del cáncer de pulmón de cada paciente es diferente”.</p></a>
                 <p><strong>Dr. Alan Sandler, Global Head para Cáncer de Pulmón, Cabeza y Cuello.Roche</strong></p>
             </div>

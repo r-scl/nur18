@@ -213,24 +213,24 @@
             <div class="row">
 
                 <div class="col-md-4 doc-block">
-                    <img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block">
-                    <p>Dr Mauricio Burotto, Oncólogo Médico del Instituto Bradford habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista <strong><a href="http://bit.ly/NUR18_Radio" target="_blank">haciendo clic aquí</a></strong>.</p>
+                    <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/doc3.jpg" class="img-fluid mx-auto d-block">
+                    <p>Dr. Mauricio Burotto, Oncólogo Médico del Instituto Bradford habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista <strong><a href="http://bit.ly/NUR18_Radio" target="_blank">haciendo clic aquí</a></strong>.</p>
                 </div>
 
                 <div class="col-md-4 doc-block">
-                    <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block"></a>
+                    <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/doc2.jpg" class="img-fluid mx-auto d-block"></a>
                     <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank">
                         <p>“Estoy muy feliz de ser un defensor en estos días porque muchas cosas buenas han comenzado a suceder en los últimos tres, cuatro, cinco años. El número de sobrevivientes está aumentando todo el tiempo, y es muy bueno poder decir eso”.</p>
                     </a>
-                    <p><strong>Tommy Björk, miembro de la junta, Cáncer de Pulmón Europa</strong></p>
+                    <p><strong>Tommy Björk, miembro de la junta, Cáncer de Pulmón Europa</strong>.</p>
                 </div>
 
                 <div class="col-md-4 doc-block">
-                    <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block"></a>
+                    <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/doc1.jpg" class="img-fluid mx-auto d-block"></a>
                     <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank">
                         <p>“Reconocemos que el viaje del cáncer de pulmón de cada paciente es diferente”.</p>
                     </a>
-                    <p><strong>Dr. Alan Sandler, Global Head para Cáncer de Pulmón, Cabeza y Cuello. Roche</strong></p>
+                    <p><strong>Dr. Alan Sandler, Global Head para Cáncer de Pulmón, Cabeza y Cuello. Roche</strong>.</p>
                 </div>
 
             </div>
@@ -239,7 +239,7 @@
         <div id="downloads" class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <a href="http://bit.ly/InfoCPLATAM" target="_blank">BOTON INFOGRAFIA</a>
+                    <a href="http://bit.ly/InfoCPLATAM" target="_blank"><div id="bot-info"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/bot-info.png" class="img-fluid mx-auto d-block"></div></a>
                 </div>
                 <div class="col-md-6">
                     <a href="http://bit.ly/NUR18Report" target="_blank">

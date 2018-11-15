@@ -18,7 +18,7 @@ header{
 }
 
 #header-bg{
-    background: url(images/sec1-bg.jpg) no-repeat center center fixed; 
+    background: url(https://s3.amazonaws.com/necesitamosunrespiro/images/sec1-bg.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

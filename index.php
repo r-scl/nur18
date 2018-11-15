@@ -8,7 +8,7 @@
 
     <title>#NecesitamosUnRespiro</title>
         
-    <meta name="description" content="">
+    <meta name="description" content="#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
     <link rel="manifest" href="site.webmanifest">
@@ -80,7 +80,7 @@
         
         <div class="row justify-content-center">
             <div id="sec1-txt" class="col-md-8 align-self-center text-center">
-                <p>#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en nuestro país.<br>Una enfermedad que sólo el último año le quitó la vida a <br><strong>más de 3.000 personas, siendo el cáncer que más muerte provoca</strong>.</p>
+                <p>#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en nuestro país.<br>Una enfermedad que sólo el último año le quitó la vida a <br><strong>más de 3.000 personas, siendo el segundo cáncer que más muertes provoca</strong>.</p>
             </div>
         </div>
         
@@ -94,7 +94,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
-                <h2>Dale aire a esta campaña <br>y compártela en tus Redes Sociales</h2>
+                <h2>Dale aire a esta campaña <br>y compártela en tus redes sociales</h2>
             </div>
         </div>
         
@@ -197,7 +197,7 @@
             <div class="col-md-4 doc-block">
                 <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block"></a>
                 <a href="https://www.roche.com/research_and_development/what_we_are_working_on/oncology/lung-cancer/lung-cancer-and-me.htm" target="_blank"><p>“Reconocemos que el viaje del cáncer de pulmón de cada paciente es diferente”.</p></a>
-                <p><strong>Dr. Alan Sandler, Global Head para Cáncer de Pulmón, Cabeza y Cuello.Roche</strong></p>
+                <p><strong>Dr. Alan Sandler, Global Head para Cáncer de Pulmón, Cabeza y Cuello. Roche</strong></p>
             </div>
             
         </div>

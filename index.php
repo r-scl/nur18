@@ -207,11 +207,11 @@
         <div class="row">
             
             <div class="col-md-6">
-                BOTON INFOGRAFIA
+                <a href="http://bit.ly/InfoCPLATAM" target="_blank">BOTON INFOGRAFIA</a>
             </div>
             
             <div class="col-md-6">
-                <div id="bot-report"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/bot-report.png" class="img-fluid mx-auto d-block"></div>
+                <a href="http://bit.ly/NUR18Report" target="_blank"><div id="bot-report"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/bot-report.png" class="img-fluid mx-auto d-block"></div></a>
             </div>
             
             
@@ -227,7 +227,7 @@
         <div class="row justify-content-md-center">
                 
             <div class="col col-md">
-                <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/logo-roche.png" class="img-fluid">
+                <a href="https://www.roche.cl" target="_blank"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/logo-roche.png" class="img-fluid"></a>
             </div>
                 
             <div class="col-md-auto">

@@ -29,8 +29,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@MasRespiro">
 <meta name="twitter:title" content="#NecesitamosUnRespiro">
-<meta name="twitter:description" content="#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!">
+<meta name="twitter:description" content="Es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!">
 <meta name="twitter:image" content="http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-articleLarge.jpg">
+        
+<meta property="og:title" content="#NecesitamosUnRespiro" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.necesitamosunrespiro.cl/" />
+<meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+<meta property="og:description" content="Es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!" />
         
     <!-- ******************************************************************************-->
 <!-- Global site tag (gtag.js) - Google Analytics -->

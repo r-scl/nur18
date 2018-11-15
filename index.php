@@ -70,8 +70,8 @@
                 <div id="header-icons" class="social-icons">
                     <a href="https://twitter.com/MasRespiro" target="_blank"><i class="fab fa-twitter"></i></a>
                     <a href="https://www.youtube.com/channel/UCqbiYMNAGuGZ2bdUixOthaA" target="_blank"><i class="fab fa-youtube"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                    <i data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.necesitamosunrespiro.cl/" class="fab fa-facebook-f"></i>
+                    <i data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/" class="fab fa-linkedin-in"></i>
                     <a href="https://www.instagram.com/necesitamosunrespiro/" target="_blank"><i class="fab fa-instagram"></i></a>
                 </div>
                     
@@ -80,16 +80,16 @@
         </div>
     </div>
 </header>
-    
       <!-- ****************************************************************************-->
 
       
 
     <div class="container">
         <div class="row">
-            
-            <div class="col-md-12">
-                <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/vid.jpg" class="img-fluid mx-auto d-block">
+            <div class="col-md-10 mx-auto">
+                <div id="main-video" class="mx-auto">
+                    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/yhgomHRgj0s?controls=0&autoplay=1&list=user_uploads&listType=user_uploads&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
+                </div>
             </div>
             
         </div>
@@ -208,7 +208,7 @@
             
             <div class="col-md-4 doc-block">
                 <img src="https://www.georeferencer.com/static/img/person.png" class="img-fluid mx-auto d-block">
-                <p>Dr Mauricio Burotto, Oncólogo Médico del Instituto Bradford habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista en el siguiente link.</p>
+                <p>Dr Mauricio Burotto, Oncólogo Médico del Instituto Bradford habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista <strong><a href="http://bit.ly/NUR18_Radio" target="_blank">haciendo clic aquí</a></strong>.</p>
             </div>
             
             <div class="col-md-4 doc-block">
@@ -260,8 +260,8 @@
                 <div id="footer-icons" class="social-icons">
                     <a href="https://twitter.com/MasRespiro" target="_blank"><i class="fab fa-twitter"></i></a>
                     <a href="https://www.youtube.com/channel/UCqbiYMNAGuGZ2bdUixOthaA" target="_blank"><i class="fab fa-youtube"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                    <i data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.necesitamosunrespiro.cl/" class="fab fa-facebook-f"></i>
+                    <i data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/" class="fab fa-linkedin-in"></i>
                     <a href="https://www.instagram.com/necesitamosunrespiro/" target="_blank"><i class="fab fa-instagram"></i></a>
                 </div>
                     

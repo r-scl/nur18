@@ -125,10 +125,10 @@ Testimonios
 #downloads{
     margin-top: 80px;
 }
-#bot-report{
+#bot-report img, #bot-info img{
     transition: 0.3s ease all;
 }
-#bot-report:hover{
+#bot-report img:hover,#bot-info img:hover{
     background-color: #ffffff;
 }
 /*****************************************************************
@@ -176,6 +176,14 @@ MEDIA QUERIES
     }
     footer .col{
         text-align: center !important;
+    }
+    
+    #bot-report, #bot-info{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    #downloads{
+        margin-top: 0;
     }
 }
 

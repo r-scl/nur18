@@ -137,9 +137,9 @@
                         <div class="sharer-list">
                             <div class="share-ico" data-sharer="twitter" data-title="3.000 personas mueren al año en Chile por cáncer de pulmón #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
                         
-                            <div class="share-ico" data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
+                            <div class="share-ico" data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
                         
-                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
+                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
                         </div>
                     </div>  
                 </div>
@@ -158,9 +158,9 @@
                         <div class="sharer-list">
                             <div class="share-ico" data-sharer="twitter" data-title="En Chile, el 40% de las mujeres con cáncer de pulmón nunca han fumado #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
                         
-                            <div class="share-ico" data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
+                            <div class="share-ico" data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
                         
-                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
+                            <div class="share-ico" data-sharer="linkedin" data-url="https://www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
                         </div>
                     </div>  
                 </div>
@@ -178,9 +178,9 @@
                     <div class="col-md-6 text-left">
                     
                         <div class="sharer-list">
-                            <div class="share-ico" data-sharer="twitter" data-title="El 85% de los casos de cáncer de pulmón se diagnostican en estadio avanzado #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
+                            <div class="share-ico" data-sharer="twitter" data-title="El 85% de los casos de cáncer de pulmón se diagnostican en estadio avanzado #NecesitamosUnRespiro Dale aire a esta campaña en" data-hashtags="LCAndMe" data-url="https://www.necesitamosunrespiro.cl"><i class="fab fa-twitter"></i></div>
                         
-                            <div class="share-ico" data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
+                            <div class="share-ico" data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.necesitamosunrespiro.cl/"><i class="fab fa-facebook"></i></div>
                         
                             <div class="share-ico" data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/"><i class="fab fa-linkedin"></i></div> 
                         </div>

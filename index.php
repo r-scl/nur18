@@ -2,6 +2,15 @@
 <html lang="es">
 
 <head>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTB6G7K');</script>
+    <!-- End Google Tag Manager -->
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,7 +22,7 @@
     <link rel="mask-icon" href="https://s3.amazonaws.com/necesitamosunrespiro/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="theme-color" content="#ffffff">
-    
+
     <title>#NecesitamosUnRespiro</title>
 
     <meta name="description" content="#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!">
@@ -44,17 +53,13 @@
     <meta property="og:description" content="Es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en Chile. ¡Dale aire a esta campaña!" />
 
     <!-- ******************************************************************************-->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129304078-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-129304078-1');
-    </script>
 </head>
 
 <body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTB6G7K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <!-- ****************************************************************************-->
     <section id="header-bg">
@@ -85,28 +90,48 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-10 mx-auto">
-                    <div id="main-video" class="mx-auto"> 
-                        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/IlaDOUaFZBg?controls=0&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
+                    <div id="main-video" class="mx-auto">
+                        <style>
+                            .embed-container {
+                                position: relative;
+                                padding-bottom: 56.25%;
+                                height: 0;
+                                overflow: hidden;
+                                max-width: 100%;
+                            }
+
+                            .embed-container iframe,
+                            .embed-container object,
+                            .embed-container embed {
+                                position: absolute;
+                                top: 0;
+                                left: 0;
+                                width: 100%;
+                                height: 100%;
+                            }
+
+                        </style>
+                        <div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/IlaDOUaFZBg?controls=0&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
                     </div>
-                    
+
                     <div id="videos-control">
                         <div class="row text-center">
-                            
+
                             <div class="col-md-4">
                                 <div id="bot1" class="video-bot mx-auto video-current"><i class="fas fa-play"></i>&nbsp;Muertes por cáncer de pulmón <br>en Chile</div>
                             </div>
-                            
+
                             <div class="col-md-4">
                                 <div id="bot2" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Mujeres con cáncer de pulmón que nunca han fumado</div>
                             </div>
-                            
+
                             <div class="col-md-4">
                                 <div id="bot3" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Porcentaje de diagnósticos de cáncer de pulmón en etapa avanzadas</div>
                             </div>
-                            
+
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
 
@@ -248,7 +273,9 @@
         <div id="downloads" class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <a href="http://bit.ly/InfoCPLATAM" target="_blank"><div id="bot-info"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/bot-info.png" class="img-fluid mx-auto d-block"></div></a>
+                    <a href="http://bit.ly/InfoCPLATAM" target="_blank">
+                        <div id="bot-info"><img src="https://s3.amazonaws.com/necesitamosunrespiro/images/bot-info.png" class="img-fluid mx-auto d-block"></div>
+                    </a>
                 </div>
                 <div class="col-md-6">
                     <a href="http://bit.ly/NUR18Report" target="_blank">
@@ -292,8 +319,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sharer.js/0.3.5/sharer.min.js"></script>
-    
+
     <script src="js/main.js"></script>
 
 </body>
+
 </html>

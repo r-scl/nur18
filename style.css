@@ -11,6 +11,9 @@ p{
 a{
     color: #3b4759;
 }
+strong{
+    font-weight: 900;
+}
 /*****************************************************************
 HEADER
 *****************************************************************/
@@ -38,11 +41,6 @@ header{
 #sec1-txt p{
     font-size: 21px;
 }
-
-#sec1-txt p strong{
-    font-weight: 900;
-}
-
 .social-icons i{
     font: 18px;
     margin-left: 5px;

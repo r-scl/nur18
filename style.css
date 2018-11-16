@@ -39,6 +39,10 @@ header{
     font-size: 21px;
 }
 
+#sec1-txt p strong{
+    font-weight: 900;
+}
+
 .social-icons i{
     font: 18px;
     margin-left: 5px;

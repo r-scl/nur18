@@ -111,7 +111,7 @@
 
             <div class="row justify-content-center">
                 <div id="sec1-txt" class="col-md-8 align-self-center text-center">
-                    <p>#NecesitamosUnRespiro es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en nuestro país.<br>Una enfermedad que sólo el último año le quitó la vida a <br><strong>más de 3.000 personas, siendo el segundo cáncer que más muertes provoca</strong>.</p>
+                    <p><strong>#NecesitamosUnRespiro</strong> es un llamado a tomar conciencia sobre la poca atención que recibe el Cáncer de Pulmón en nuestro país.<br>Una enfermedad que sólo el último año le quitó la vida a <br><strong>más de 3.000 personas, siendo el segundo cáncer que más muertes provoca</strong>.</p>
                 </div>
             </div>
 
@@ -222,7 +222,7 @@
 
                 <div class="col-md-4 doc-block">
                     <img src="https://s3.amazonaws.com/necesitamosunrespiro/images/doc-3.jpg" class="img-fluid mx-auto d-block">
-                    <p>Dr. Mauricio Burotto, Oncólogo Médico del Instituto Bradford habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista <strong><a href="http://bit.ly/NUR18_Radio" target="_blank">haciendo clic aquí</a></strong>.</p>
+                    <p>Dr. Mauricio Burotto, Oncólogo Médico del Instituto Bradford Hill Chile habla sobre cáncer de pulmón y los nuevos tratamientos. Escucha la entrevista <strong><a href="http://bit.ly/NUR18_Radio" target="_blank">haciendo clic aquí</a></strong>.</p>
                 </div>
 
                 <div class="col-md-4 doc-block">

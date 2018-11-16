@@ -26,7 +26,7 @@
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="style.css?v=1.6">
+    <link rel="stylesheet" href="style.css?v=1.7">
 
     <!---------------------- TWITTER CARDS & OPEN GRAPH --------------------------------->
 
@@ -93,7 +93,7 @@
                         <div class="row text-center">
                             
                             <div class="col-md-4">
-                                <div id="bot1" class="video-bot mx-auto video-current"><i class="fas fa-play"></i>&nbsp;Muertes por cáncer de pulmón en Chile</div>
+                                <div id="bot1" class="video-bot mx-auto video-current"><i class="fas fa-play"></i>&nbsp;Muertes por cáncer de pulmón <br>en Chile</div>
                             </div>
                             
                             <div class="col-md-4">

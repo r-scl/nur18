@@ -70,13 +70,13 @@ VIDEOS
 }
 
 .video-bot {
-    background-color: #D3D3D3;
+    background-color: #bcbcbc;
     color: #ffffff;
     padding: 10px 10px;
     border-radius: 10px;
     transition: 0.2s ease all;
-    font-size: 14px;
-    font-weight: lighter;
+    font-size: 12px;
+    font-weight: normal;
     text-align: center;
 }
 .video-bot:hover{

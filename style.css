@@ -1,27 +1,31 @@
-html{
+html {
     font-family: 'Montserrat', sans-serif;
 }
-body{
+
+body {
     font-family: 'Montserrat', sans-serif;
 }
-p{
+
+p {
     color: #3b4759;
     font-weight: 300;
 }
-a{
+
+a {
     color: #3b4759;
 }
-strong{
+
+strong {
     font-weight: 700 !important;
 }
+
 /*****************************************************************
 HEADER
 *****************************************************************/
-header{
-}
+header {}
 
-#header-bg{
-    background: url(https://s3.amazonaws.com/necesitamosunrespiro/images/sec1-bg.jpg) no-repeat center center fixed; 
+#header-bg {
+    background: url(https://s3.amazonaws.com/necesitamosunrespiro/images/sec1-bg.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -31,61 +35,108 @@ header{
     transition: 0.3s ease all;
 }
 
-#logo{
+#logo {
     margin: 30px 0;
 }
 
-#sec1-txt{
+#sec1-txt {
     margin-top: 40px;
 }
-#sec1-txt p{
+
+#sec1-txt p {
     font-size: 21px;
 }
-.social-icons i{
+
+.social-icons i {
     font: 18px;
     margin-left: 5px;
     margin-right: 5px;
     cursor: pointer;
 }
-.social-icons i:hover{
+
+.social-icons i:hover {
     color: #1c5eff;
 }
-#comp-pulmones p{
+
+#comp-pulmones p {
     margin-top: 20px;
+}
+
+/*****************************************************************
+VIDEOS
+*****************************************************************/
+#videos-control {
+    margin-top: 10px;
+}
+
+.video-bot {
+    background-color: #D3D3D3;
+    color: #ffffff;
+    padding: 10px 10px;
+    border-radius: 10px;
+    transition: 0.2s ease all;
+    font-size: 14px;
+    font-weight: lighter;
+    text-align: center;
+}
+.video-bot:hover{
+    background-color: #1c5eff;
+}
+.video-current {
+    background-color: #1c5eff;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /*****************************************************************
 Sección Posters
 *****************************************************************/
-#sec-posters{
+#sec-posters {
     background-color: #1c5eff;
     padding-top: 60px;
     padding-bottom: 30px;
 }
-#sec-posters h2{
+
+#sec-posters h2 {
     color: #ffffff;
     text-align: center;
     font-weight: 600;
 }
 
-#infos-row{
+#infos-row {
     margin-top: 60px;
     margin-bottom: 60px;
 }
 
-.info-s img{
-    -webkit-box-shadow: 20px 20px 0px 0px rgba(23,74,204,1);
-    -moz-box-shadow: 20px 20px 0px 0px rgba(23,74,204,1);
-    box-shadow: 20px 20px 0px 0px rgba(23,74,204,1);
+.info-s img {
+    -webkit-box-shadow: 20px 20px 0px 0px rgba(23, 74, 204, 1);
+    -moz-box-shadow: 20px 20px 0px 0px rgba(23, 74, 204, 1);
+    box-shadow: 20px 20px 0px 0px rgba(23, 74, 204, 1);
 }
 
-.info-sharer{
+.info-sharer {
     color: #ffffff;
     margin-top: 45px;
     margin-bottom: 30px;
 }
 
-.share-ico{
+.share-ico {
     display: inline-block;
     margin-right: 5px;
     transition: 0.2 ease all;
@@ -99,7 +150,8 @@ Sección Posters
     line-height: 1.7;
     cursor: pointer;
 }
-.share-ico:hover{
+
+.share-ico:hover {
     color: #2C31CF;
     border-color: #2C31CF;
 }
@@ -107,41 +159,50 @@ Sección Posters
 /*****************************************************************
 Testimonios
 *****************************************************************/
-#sec-testimonios{
+#sec-testimonios {
     background-color: #ebebeb;
     padding-top: 60px;
     padding-bottom: 60px;
 }
-#sec-testimonios{
+
+#sec-testimonios {
     color: #394656;
 }
-#testimonios{
+
+#testimonios {
     margin-top: 50px;
     margin-bottom: 30px;
 }
-.doc-block p{
+
+.doc-block p {
     margin-top: 20px;
     font: 14px;
 }
 
-#downloads{
+#downloads {
     margin-top: 80px;
 }
-#bot-report img, #bot-info img{
+
+#bot-report img,
+#bot-info img {
     transition: 0.3s ease all;
 }
-#bot-report img:hover,#bot-info img:hover{
+
+#bot-report img:hover,
+#bot-info img:hover {
     background-color: #ffffff;
 }
+
 /*****************************************************************
 Footer
 *****************************************************************/
-footer{
+footer {
     background-color: #ffffff;
     padding-top: 60px;
     padding-bottom: 60px;
 }
-#footer-icons{
+
+#footer-icons {
     margin-top: 20px;
 }
 
@@ -152,45 +213,51 @@ MEDIA QUERIES
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    #logo{
+    #logo {
         margin: 0;
     }
-    #header-icons{
+
+    #header-icons {
         margin: 15px 0;
         text-align: center;
     }
-    #sec1-txt p{
+
+    #sec1-txt p {
         font-size: 16px;
     }
-    h2{
+
+    h2 {
         font-size: 22px;
     }
+
     .info-sharer .col-md-6 {
-    text-align: center !important;
+        text-align: center !important;
         margin-bottom: 20px;
     }
-    #sec-posters{
+
+    #sec-posters {
         padding-bottom: 10px;
     }
-    footer{
+
+    footer {
         padding-top: 40px;
         padding-bottom: 40px;
     }
-    footer .col{
+
+    footer .col {
         text-align: center !important;
     }
-    
-    #bot-report, #bot-info{
+
+    #bot-report,
+    #bot-info {
         margin-top: 15px;
         margin-bottom: 15px;
     }
-    #downloads{
+
+    #downloads {
         margin-top: 0;
     }
+    .video-bot {
+        margin-bottom: 15px;
+    }
 }
-
-
-
-
-
-

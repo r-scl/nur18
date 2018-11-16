@@ -85,27 +85,28 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-10 mx-auto">
-                    <div id="main-video" class="mx-auto">
-                        <style>
-                            .embed-container {
-                                position: relative;
-                                padding-bottom: 56.25%;
-                                height: 0;
-                                overflow: hidden;
-                                max-width: 100%;
-                            }
-                            .embed-container iframe,
-                            .embed-container object,
-                            .embed-container embed {
-                                position: absolute;
-                                top: 0;
-                                left: 0;
-                                width: 100%;
-                                height: 100%;
-                            }
-                        </style>
-                        <div class='embed-container'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/yhgomHRgj0s?controls=0&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
+                    <div id="main-video" class="mx-auto"> 
+                        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/IlaDOUaFZBg?controls=0&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
                     </div>
+                    
+                    <div id="videos-control">
+                        <div class="row text-center">
+                            
+                            <div class="col-md-4">
+                                <div id="bot1" class="video-bot mx-auto video-current"><i class="fas fa-play"></i>&nbsp;Muertes por cáncer de pulmón en Chile</div>
+                            </div>
+                            
+                            <div class="col-md-4">
+                                <div id="bot2" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Mujeres con cáncer de pulmón que nunca han fumado</div>
+                            </div>
+                            
+                            <div class="col-md-4">
+                                <div id="bot3" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Porcentaje de diagnósticos de cáncer de pulmón en etapa avanzadas</div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
 
@@ -291,6 +292,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sharer.js/0.3.5/sharer.min.js"></script>
+    
+    <script src="js/main.js"></script>
 
 </body>
 </html>

@@ -78,7 +78,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <a href="https://twitter.com/MasRespiro" target="_blank"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.youtube.com/channel/UCqbiYMNAGuGZ2bdUixOthaA" target="_blank"><i class="fab fa-youtube"></i></a>
                             <i data-sharer="facebook" data-hashtag="NecesitamosUnRespiro" data-url="https://www.necesitamosunrespiro.cl/" class="fab fa-facebook-f"></i>
-                            <i data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/" class="fab fa-linkedin-in"></i>
+                            <!--<i data-sharer="linkedin" data-url="https://www.www.necesitamosunrespiro.cl/" class="fab fa-linkedin-in"></i>-->
                             <a href="https://www.instagram.com/necesitamosunrespiro/" target="_blank"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>

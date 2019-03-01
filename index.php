@@ -111,21 +111,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             }
 
                         </style>
-                        <div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/IlaDOUaFZBg?controls=0&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
+                        <div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Tb7K7obuyHY?controls=0&rel=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
                     </div>
 
                     <div id="videos-control">
                         <div class="row text-center">
-
-                            <div class="col-md-4">
-                                <div id="bot1" class="video-bot mx-auto video-current"><i class="fas fa-play"></i>&nbsp;Muertes por cáncer de pulmón <br>en Chile</div>
+                            
+                            <div class="col-md-3">
+                                <div id="bot0" class="video-bot mx-auto video-current"><i class="fas fa-play"></i>&nbsp;<br>El Cáncer de Pulmón<br>en Cifras</div>
                             </div>
 
-                            <div class="col-md-4">
+                            <div class="col-md-3">
+                                <div id="bot1" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Muertes por cáncer de pulmón <br>en Chile</div>
+                            </div>
+
+                            <div class="col-md-3">
                                 <div id="bot2" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Mujeres con cáncer de pulmón que nunca han fumado</div>
                             </div>
 
-                            <div class="col-md-4">
+                            <div class="col-md-3">
                                 <div id="bot3" class="video-bot mx-auto"><i class="fas fa-play"></i>&nbsp;Porcentaje de diagnósticos de cáncer de pulmón en etapa avanzadas</div>
                             </div>
 
